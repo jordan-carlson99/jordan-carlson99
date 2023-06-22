@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jordan.carlson.square@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/jordan-carlson99/resume](https://github.com/jordan-carlson99/resume)
+- 📄 Know about my experiences [Portfolio Site](https://jordan-carlson.vercel.app/)
 
 - ⚡ Fun fact **I love sailboat racing ⛵**
 
