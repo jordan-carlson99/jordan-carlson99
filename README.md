@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A nutrition meal planning app](https://idunns-app.onrender.com/)
 
-- 🌱 I’m currently learning **React, Database Testing, Python, Web scraping**
+- 🌱 I’m currently learning **OpenCV, PyTorch, and YOLO**
 
 - 👯 I’m looking to collaborate on **Data analytics tools**
 
