@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **OpenCV, PyTorch, and YOLO**
 
-- 👯 I’m looking to collaborate on **Data analytics tools**
+- 👯 I’m looking to collaborate on **Distributed High Powered Computing**
 
 - 📫 How to reach me **jordan.carlson.square@gmail.com**
 
