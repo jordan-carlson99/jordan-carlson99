@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Jordan</h1>
 <h3 align="center">Full-stack web developer</h3>
 
-- 🔭 I’m currently working on [A nutrition meal planning app](https://idunns-app.onrender.com/)
+- 🔭 I’m currently working on a price and inventory tracking analytics api
 
-- 🌱 I’m currently learning **OpenCV, PyTorch, and YOLO**
+- 🌱 I’m currently learning **Cyber Security Governance, Risk, and Compliance, and simulaion models**
 
-- 👯 I’m looking to collaborate on **Distributed High Powered Computing**
+- 👯 I’m looking to collaborate on [Open sourcing mycological cultivation protocols](https://github.com/jordan-carlson99/Mycology-Cultivation-Protocols)
 
 - 📫 How to reach me **jordan.carlson.square@gmail.com**
 
-- 📄 Know about my experiences [Portfolio Site](https://jordan-carlson.vercel.app/)
-
-- ⚡ Fun fact **I love sailboat racing ⛵**
+- 📄 Check out my company [Kato Digital](https://www.kato-digital.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
